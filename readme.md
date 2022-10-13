@@ -1,5 +1,12 @@
 # http://mavoe.eu/webprog/index.html
 
+## Alodlalak:
+- [ ] Árlista [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
+- [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
+- [ ] Kapcsolatok [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
+- [x] Szolgálatások (v1) [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
+- [ ] Vélemények [link](https://mavoe.eu/webprog/Aloldalak/velemenyek.html)
+
 ## Resources for code:
 - https://fodraszom.hu/
 - https://www.ibeautyszalon.hu/
