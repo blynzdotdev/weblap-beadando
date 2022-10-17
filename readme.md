@@ -10,7 +10,7 @@
 ## Követelmények/kellenek:
 - 1 főoldal
 - 5 aloldal
-- Háttérszín
+- Háttérszín (by Tirex5000)
 - Kapcsolatok: embed térkép
 - Főoldal: Rövid történeti leírás
 - 10 kép
