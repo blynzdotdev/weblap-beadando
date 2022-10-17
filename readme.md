@@ -7,11 +7,11 @@
 
 
 ## Oldalak:
-- [x] Főoldal (v1 by Me) (v2 by @Tirex5000) [link](http://mavoe.eu/webprog/index.html)
-- [x] Árlista (v1 by Me) (v2 by @Tirex5000) [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
+- [x] Főoldal (v1 by @blynzdotdev) (v2 by @Tirex5000) [link](http://mavoe.eu/webprog/index.html)
+- [x] Árlista (v1 by @blynzdotdev) (v2 by @Tirex5000) [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
+- [x] Szolgálatások (v1) [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
 - [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
 - [ ] Kapcsolatok [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
-- [x] Szolgálatások (v1) [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
 - [ ] Vélemények [link](https://mavoe.eu/webprog/Aloldalak/velemenyek.html)
 
 ## Követelmények/kellenek:
