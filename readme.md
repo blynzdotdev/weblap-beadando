@@ -1,7 +1,7 @@
 # http://mavoe.eu/webprog/index.html
 
 ## Alodlalak:
-- [x] Árlista (v1) [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
+- [x] Árlista (v1) (v2 by @Tirex5000) [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
 - [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
 - [ ] Kapcsolatok [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
 - [x] Szolgálatások (v1) [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
