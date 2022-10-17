@@ -24,6 +24,7 @@
 - 500 karakter
 - funkcionalitás
 - design (Ideas by @GasDani2001)
+- [Többi](https://elearning.uni-obuda.hu/main/course/view.php?id=19752#section-5)
 
 ## Resources for code:
 - https://fodraszom.hu/
