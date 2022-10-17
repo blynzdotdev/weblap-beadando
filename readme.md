@@ -24,6 +24,7 @@
 - https://www.ibeautyszalon.hu/
 - https://close.co.hu/
 - https://www.w3schools.com/html/default.asp
+- https://biohair.hu/araink/
 
 ## Resources for images:
 - Getty Images
