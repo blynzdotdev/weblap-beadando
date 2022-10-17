@@ -37,6 +37,7 @@
 - Getty Images
 - Public domain
 - https://fodraszom.hu/
+- Vélemények alodlal képek AI Generált arcképek forrása [generated.photos](https://generated.photos/faces)
 - A többi a megfelelő helyen ki kommentelve a sourceban
 
 ## Made with love by:
