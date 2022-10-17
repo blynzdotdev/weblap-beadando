@@ -30,7 +30,7 @@
 - Getty Images
 - Public domain
 - https://fodraszom.hu/
-- A megfelelő helyen ki kommentelve a sourcban
+- A többi a megfelelő helyen ki kommentelve a sourceban
 
 ## Made with love by:
 @Tirex5000, @GasDani2001, and @blynzdotdev
