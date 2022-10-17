@@ -39,6 +39,7 @@
 - Public domain
 - https://fodraszom.hu/
 - Vélemények alodlal képek AI Generált arcképek forrása [generated.photos](https://generated.photos/faces)
+- Video: https://youtu.be/JV50_SVUiZU
 - A többi a megfelelő helyen ki kommentelve a sourceban
 
 ## Made with love by:
