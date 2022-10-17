@@ -36,5 +36,5 @@
 ## Made with love by:
 [@Tirex5000](https://github.com/Tirex5000), [@GasDani2001](https://github.com/GasDani2001), and [@blynzdotdev](https://github.com/blynzdotdev)
 
-## LICENCE:
+## LICENSE:
 ###### This Project is under GPL Licence, its free and open source and without any warranty. 
