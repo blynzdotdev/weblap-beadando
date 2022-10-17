@@ -31,7 +31,7 @@
 - https://www.w3schools.com/html/default.asp
 - https://biohair.hu/araink/
 
-## Resources for images:
+## Resources for images/videos/text:
 - Getty Images
 - Public domain
 - https://fodraszom.hu/
