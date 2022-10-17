@@ -17,7 +17,7 @@
 - 1 video
 - 500 karakter
 - funkcionalitás
-- design
+- design (Ideas by @GasDani)
 
 ## Resources for code:
 - https://fodraszom.hu/
