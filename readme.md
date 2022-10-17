@@ -7,8 +7,8 @@
 
 
 ## Oldalak:
-- [x] Főoldal (v1 by @blynzdotdev) (v2 by @Tirex5000) **Teljesen Kész** || [link](http://mavoe.eu/webprog/index.html) 
-- [x] Árlista (v1 by @blynzdotdev) (v2 by @Tirex5000) **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/arlista.html) 
+- [x] Főoldal (v1 by @blynzdotdev) (v2 by @Tirex5000) || **Teljesen Kész** || [link](http://mavoe.eu/webprog/index.html) 
+- [x] Árlista (v1 by @blynzdotdev) (v2 by @Tirex5000) || **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/arlista.html) 
 - [x] Szolgálatások (v1 by @blynzdotdev) [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
 - [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
 - [ ] Kapcsolatok [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
