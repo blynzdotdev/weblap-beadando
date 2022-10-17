@@ -6,7 +6,7 @@
 ![Készítők](https://img.shields.io/github/contributors/blynzdotdev/weblap-beadando)
 
 
-## odlalak:
+## Oldalak:
 - [x] Főoldal (v1 by Me) (v2 by @Tirex5000) [link](http://mavoe.eu/webprog/index.html)
 - [x] Árlista (v1 by Me) (v2 by @Tirex5000) [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
 - [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
