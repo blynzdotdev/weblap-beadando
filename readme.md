@@ -1,6 +1,6 @@
 ## Weblap Beadando 2022.10.19
 # Élő webcím: http://mavoe.eu/webprog/index.html
-![Lines of Code](https://img.shields.io/tokei/lines/github.com/blynzdotdev/weblap-beadando?color=blue&style=flat-square)
+![Lines of Code](https://img.shields.io/tokei/lines/github.com/blynzdotdev/weblap-beadando?style=plastic)
 
 ## Alodlalak:
 - [x] Árlista (v1 by Me) (v2 by @Tirex5000) [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
