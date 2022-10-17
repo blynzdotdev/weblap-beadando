@@ -6,7 +6,8 @@
 ![Készítők](https://img.shields.io/github/contributors/blynzdotdev/weblap-beadando)
 
 
-## Alodlalak:
+## Oldalak:
+- [x] Főoldal (v1 by Me) (v2 by @Tirex5000) [link](http://mavoe.eu/webprog/index.html)
 - [x] Árlista (v1 by Me) (v2 by @Tirex5000) [link](https://mavoe.eu/webprog/Aloldalak/arlista.html)
 - [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
 - [ ] Kapcsolatok [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
@@ -16,7 +17,7 @@
 ## Követelmények/kellenek:
 - 1 főoldal
 - 5 aloldal
-- Háttérszín (by Tirex5000)
+- Háttérszín 
 - Kapcsolatok: embed térkép
 - Főoldal: Rövid történeti leírás
 - 10 kép
@@ -38,6 +39,7 @@
 - Public domain
 - https://fodraszom.hu/
 - Vélemények alodlal képek AI Generált arcképek forrása [generated.photos](https://generated.photos/faces)
+- Video: https://youtu.be/JV50_SVUiZU
 - A többi a megfelelő helyen ki kommentelve a sourceban
 
 ## Made with love by:
