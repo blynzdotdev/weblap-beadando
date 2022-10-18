@@ -1,4 +1,6 @@
+<p align="center">
 ## Weblap Beadando 2022.10.19
+</p>
 # Élő webcím: http://mavoe.eu/webprog/index.html
 ![Méret](https://img.shields.io/github/repo-size/blynzdotdev/weblap-beadando)
 ![Élő](https://img.shields.io/website?label=weblap&up_message=%C3%A9l%C5%91&url=http%3A%2F%2Fmavoe.eu%2Fwebprog%2Findex.html)
@@ -11,7 +13,7 @@
 - :white_check_mark: Árlista (v1 by @blynzdotdev) (v2 by @Tirex5000) || **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/arlista.html) 
 - :white_check_mark: Szolgálatások (v1 by @blynzdotdev) (v2 by @GasDani2001) [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
 - [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
-- :white_check_mark: Kapcsolatok [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
+- :white_check_mark: Kapcsolatok (@GasDani2001) [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
 - :white_check_mark: Vélemények [link](https://mavoe.eu/webprog/Aloldalak/velemenyek.html)
 
 ## Követelmények/kellenek:
