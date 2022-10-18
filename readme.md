@@ -10,9 +10,9 @@
 - :white_check_mark: Főoldal (v1 by @blynzdotdev) (v2 by @Tirex5000) || **Teljesen Kész** || [link](http://mavoe.eu/webprog/index.html) 
 - :white_check_mark: Árlista (v1 by @blynzdotdev) (v2 by @Tirex5000) || **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/arlista.html) 
 - :white_check_mark: Szolgálatások (v1 by @blynzdotdev) (v2 by @GasDani2001) || **Teljesen Kész** || [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
-- :white_check_mark: Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
+- :white_check_mark: Galéria || **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
 - :white_check_mark: Kapcsolatok (@GasDani2001) || **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
-- :white_check_mark: Vélemények [link](https://mavoe.eu/webprog/Aloldalak/velemenyek.html)
+- :white_check_mark: Vélemények || **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/velemenyek.html)
 
 ## Követelmények/kellenek:
 - 1 főoldal :white_check_mark:
