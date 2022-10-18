@@ -23,7 +23,7 @@
 - 10 kép :white_check_mark:
 - 1 video :white_check_mark:
 - 500 karakter :white_check_mark:
-- funkcionalitás
+- funkcionalitás :white_check_mark:
 - design (Ideas by @GasDani2001)
 - [Többi](https://elearning.uni-obuda.hu/main/course/view.php?id=19752#section-5)
 
