@@ -11,16 +11,16 @@
 - :white_check_mark: Árlista (v1 by @blynzdotdev) (v2 by @Tirex5000) || **Teljesen Kész** || [link](https://mavoe.eu/webprog/Aloldalak/arlista.html) 
 - :white_check_mark: Szolgálatások (v1 by @blynzdotdev) (v2 by @GasDani2001) [Link](https://mavoe.eu/webprog/Aloldalak/szolgaltatasok.html)
 - [ ] Galéria [link](https://mavoe.eu/webprog/Aloldalak/galeria.html)
-- [ ] Kapcsolatok [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
-- [ ] Vélemények [link](https://mavoe.eu/webprog/Aloldalak/velemenyek.html)
+- :white_check_mark: [link](https://mavoe.eu/webprog/Aloldalak/kapcsolatok.html)
+- :white_check_mark: Vélemények [link](https://mavoe.eu/webprog/Aloldalak/velemenyek.html)
 
 ## Követelmények/kellenek:
 - 1 főoldal :white_check_mark:
-- 5 aloldal
+- 5 aloldal :white_check_mark:
 - Háttérszín :white_check_mark:
-- Kapcsolatok: embed térkép
+- Kapcsolatok: embed térkép :white_check_mark:
 - Főoldal: Rövid történeti leírás :white_check_mark:
-- 10 kép
+- 10 kép :white_check_mark:
 - 1 video :white_check_mark:
 - 500 karakter :white_check_mark:
 - funkcionalitás
