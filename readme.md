@@ -6,6 +6,8 @@
 ![Nyelv](https://img.shields.io/badge/Language-HTML4-orange)
 ![Készítők](https://img.shields.io/github/contributors/blynzdotdev/weblap-beadando)
 
+## Accessibilty:
+![picture](https://cdn.discordapp.com/attachments/938436612075978813/1037776949818445834/img.png)
 
 ## Oldalak:
 - :white_check_mark: Főoldal (v1 by @blynzdotdev) (v2 by @Tirex5000) || **Teljesen Kész** || [link](http://mavoe.eu/webprog/index.html) 
