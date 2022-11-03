@@ -6,7 +6,7 @@
 ![Nyelv](https://img.shields.io/badge/Language-HTML4-orange)
 ![Készítők](https://img.shields.io/github/contributors/blynzdotdev/weblap-beadando)
 
-## Accessibilty:
+## Accessibilty: (Lighthouse Test)
 ![picture](https://cdn.discordapp.com/attachments/938436612075978813/1037776949818445834/img.png)
 
 ## Oldalak:
