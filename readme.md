@@ -1,4 +1,6 @@
+<div align=center>
 ## Weblap Beadando 2022.10.19
+</div>
 # Élő webcím: http://mavoe.eu/webprog/index.html
 ![Méret](https://img.shields.io/github/repo-size/blynzdotdev/weblap-beadando)
 ![Lines](https://img.shields.io/tokei/lines/github.com/blynzdotdev/weblap-beadando)
